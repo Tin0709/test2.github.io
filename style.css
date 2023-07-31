@@ -1,0 +1,56 @@
+/* CSS Reset */
+body, h1, h2, p, ul, li, footer {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Body styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    line-height: 1.6;
+    text-align: center;
+  }
+  
+  /* Header styles */
+  header {
+    background-color: #0055FF;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #fff;
+  }
+  
+  /* Main styles */
+  main {
+    padding: 20px;
+  }
+  
+  .colorful-section {
+    background-color: #F9A825;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Footer styles */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  /* Hyperlink styles */
+  a {
+    color: #0055FF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
